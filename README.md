@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e943ece1-6644-4cc5-a283-61fba0cb1e0c
+[SmartEV Explorer](https://lovable.dev/projects/e943ece1-6644-4cc5-a283-61fba0cb1e0c)
 
 ## How can I edit this code?
 
