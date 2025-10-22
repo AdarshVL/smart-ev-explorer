@@ -51,7 +51,7 @@ You can work on this project in **multiple ways** depending on your setup.
 
 ### 💻 Option 2: Edit Locally with Your IDE
 
-```bash
+```
 # Step 1: Clone the repository using your Git URL
 git clone <YOUR_GIT_URL>
 
@@ -63,3 +63,26 @@ npm install
 
 # Step 4: Run the development server
 npm run dev
+
+```
+--- 
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+
