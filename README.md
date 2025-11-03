@@ -65,8 +65,6 @@ npm install
 npm run dev
 
 ```
---- 
-
 ## 👨‍💻 Author
 
 ---
@@ -74,7 +72,7 @@ npm run dev
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻  Python and Java Developer | 🌍 Open Source Contributor 
 
 📧 [Email](adarshlilhare@example.com)
 
